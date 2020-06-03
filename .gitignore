@@ -1,0 +1,14 @@
+.DS_Store
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/photon_experiments.iml
+.idea/workspace.xml
+.ipynb_checkpoints/
+classification_svc/
+tests/
+tmp/
+# Jupyter Notebook
+.ipynb_checkpoints
+# User-specific stuff:
+.idea/
